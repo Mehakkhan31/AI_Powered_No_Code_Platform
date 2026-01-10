@@ -1,6 +1,9 @@
 # Webify
 
 > Lightweight no-code builder that combines a Vite + React frontend with a TypeScript Node backend for AI-driven scaffolding and previews.
+> That automatically creates complete, responsive websites based on user input. Users simply describe their idea or requirements, and the AI generates a structured, modern website layout with relevant content and design.
+
+This project aims to simplify website creation for students, developers, startups, and non-technical users by eliminating the need for manual coding and design. The platform focuses on speed, usability, and clean UI, enabling users to go from idea to live website in minutes.
 
 ## Quick overview
 - Backend: `be/` — minimal TypeScript Express server used for AI integrations and prompts.
