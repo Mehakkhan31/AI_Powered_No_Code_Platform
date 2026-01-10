@@ -6,9 +6,60 @@ That automatically creates complete, responsive websites based on user input. Us
 
 This project aims to simplify website creation for students, developers, startups, and non-technical users by eliminating the need for manual coding and design. The platform focuses on speed, usability, and clean UI, enabling users to go from idea to live website in minutes.
 
-## Quick overview
-- Backend: `be/` — minimal TypeScript Express server used for AI integrations and prompts.
-- Frontend: `frontend/` — Vite + React + TypeScript UI (builder, editor, preview).
+##Overview
+This project demonstrates how AI can transform natural language prompts into fully structured websites. Users can create landing pages, portfolios, business websites, and more—without writing code manually.
+
+The goal of this project is to explore prompt-based UI generation, AI-assisted development, and rapid prototyping.
+
+### Features
+- Prompt-Based Website Generation
+Generate websites by describing requirements in plain English.
+
+- Instant Website Creation
+From idea to website layout in seconds.
+
+- Modern & Responsive UI
+Automatically generated layouts follow clean and responsive design principles.
+
+- Component-Based Structure
+Websites are built using reusable sections like Hero, Features, Pricing, and Contact.
+
+- Live Preview
+View the generated website instantly after submission.
+
+- Editable Output
+Modify and extend the generated code as needed.
+
+- Great for Prototyping
+Ideal for testing ideas, demos, and learning AI-driven development.
+
+## How to use
+1. Open the Application
+ - Run the project locally or open the deployed version.
+ - You will see a prompt input box on the screen.
+
+2. Enter a Website Prompt
+ - Describe the website you want to build.
+ > Example:
+ > Create a modern SaaS landing page with a hero section, features, pricing, and contact form.
+
+3. Generate Website
+ - Click on the Generate button.
+ - The AI processes your prompt and generates a website layout with content.
+
+4. Preview the Website
+ - The generated website appears in the preview area.
+ - Review the structure, sections, and UI.
+
+5. Customize & Extend
+ - Edit the generated code or UI.
+ - Use it as a base for further development or deployment.
+
+## Prompt Writing Tips
+
+- Mention the type of website (portfolio, SaaS, business)
+- Specify sections (hero, features, pricing, contact)
+- Add design preferences (modern, minimal, dark theme)  
 
 ## Prerequisites
 - Node.js (v18+ recommended)
