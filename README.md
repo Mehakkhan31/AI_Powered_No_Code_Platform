@@ -11,7 +11,7 @@ This project demonstrates how AI can transform natural language prompts into ful
 
 The goal of this project is to explore prompt-based UI generation, AI-assisted development, and rapid prototyping.
 
-### Features
+## Features
 - Prompt-Based Website Generation
 Generate websites by describing requirements in plain English.
 
