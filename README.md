@@ -6,7 +6,7 @@ That automatically creates complete, responsive websites based on user input. Us
 
 This project aims to simplify website creation for students, developers, startups, and non-technical users by eliminating the need for manual coding and design. The platform focuses on speed, usability, and clean UI, enabling users to go from idea to live website in minutes.
 
-##Overview
+## Overview
 This project demonstrates how AI can transform natural language prompts into fully structured websites. Users can create landing pages, portfolios, business websites, and more—without writing code manually.
 
 The goal of this project is to explore prompt-based UI generation, AI-assisted development, and rapid prototyping.
