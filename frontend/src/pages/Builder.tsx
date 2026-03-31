@@ -256,8 +256,10 @@ export function Builder() {
             <div className="h-[calc(100%-4rem)]">
               {activeTab === 'code' ? (
                 <CodeEditor file={selectedFile} />
-              ) : (
+              ) : webcontainer ? (
                 <PreviewFrame webContainer={webcontainer} files={files} />
+              ) : (
+                <div className="text-gray-400 text-center py-8">Loading preview...</div>
               )}
             </div>
           </div>
