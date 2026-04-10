@@ -1,1 +1,1 @@
-export const BACKEND_URL = "http://localhost:3000"
+export const BACKEND_URL = "https://webify-2.onrender.com"
